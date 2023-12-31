@@ -13,6 +13,7 @@
 		8E45775C2B412F4500CD8251 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E45775B2B412F4500CD8251 /* Preview Assets.xcassets */; };
 		8E4577632B41325100CD8251 /* VariableType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577622B41325100CD8251 /* VariableType.swift */; };
 		8E4577652B41401E00CD8251 /* MyCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577642B41401E00CD8251 /* MyCollection.swift */; };
+		8E4577672B41471D00CD8251 /* Condition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577662B41471D00CD8251 /* Condition.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		8E45775B2B412F4500CD8251 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8E4577622B41325100CD8251 /* VariableType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariableType.swift; sourceTree = "<group>"; };
 		8E4577642B41401E00CD8251 /* MyCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollection.swift; sourceTree = "<group>"; };
+		8E4577662B41471D00CD8251 /* Condition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Condition.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				8E45775A2B412F4500CD8251 /* Preview Content */,
 				8E4577622B41325100CD8251 /* VariableType.swift */,
 				8E4577642B41401E00CD8251 /* MyCollection.swift */,
+				8E4577662B41471D00CD8251 /* Condition.swift */,
 			);
 			path = FastSwiftBasic;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				8E4577572B412F4200CD8251 /* ContentView.swift in Sources */,
 				8E4577552B412F4200CD8251 /* FastSwiftBasicApp.swift in Sources */,
 				8E4577652B41401E00CD8251 /* MyCollection.swift in Sources */,
+				8E4577672B41471D00CD8251 /* Condition.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
