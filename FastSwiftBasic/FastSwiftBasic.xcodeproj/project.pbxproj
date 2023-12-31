@@ -14,6 +14,8 @@
 		8E4577632B41325100CD8251 /* VariableType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577622B41325100CD8251 /* VariableType.swift */; };
 		8E4577652B41401E00CD8251 /* MyCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577642B41401E00CD8251 /* MyCollection.swift */; };
 		8E4577672B41471D00CD8251 /* Condition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577662B41471D00CD8251 /* Condition.swift */; };
+		8E4577692B41507B00CD8251 /* Loop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577682B41507B00CD8251 /* Loop.swift */; };
+		8E45776B2B4156C600CD8251 /* function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E45776A2B4156C600CD8251 /* function.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		8E4577622B41325100CD8251 /* VariableType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariableType.swift; sourceTree = "<group>"; };
 		8E4577642B41401E00CD8251 /* MyCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollection.swift; sourceTree = "<group>"; };
 		8E4577662B41471D00CD8251 /* Condition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Condition.swift; sourceTree = "<group>"; };
+		8E4577682B41507B00CD8251 /* Loop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loop.swift; sourceTree = "<group>"; };
+		8E45776A2B4156C600CD8251 /* function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = function.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +68,8 @@
 				8E4577622B41325100CD8251 /* VariableType.swift */,
 				8E4577642B41401E00CD8251 /* MyCollection.swift */,
 				8E4577662B41471D00CD8251 /* Condition.swift */,
+				8E4577682B41507B00CD8251 /* Loop.swift */,
+				8E45776A2B4156C600CD8251 /* function.swift */,
 			);
 			path = FastSwiftBasic;
 			sourceTree = "<group>";
@@ -149,6 +155,8 @@
 				8E4577632B41325100CD8251 /* VariableType.swift in Sources */,
 				8E4577572B412F4200CD8251 /* ContentView.swift in Sources */,
 				8E4577552B412F4200CD8251 /* FastSwiftBasicApp.swift in Sources */,
+				8E45776B2B4156C600CD8251 /* function.swift in Sources */,
+				8E4577692B41507B00CD8251 /* Loop.swift in Sources */,
 				8E4577652B41401E00CD8251 /* MyCollection.swift in Sources */,
 				8E4577672B41471D00CD8251 /* Condition.swift in Sources */,
 			);
