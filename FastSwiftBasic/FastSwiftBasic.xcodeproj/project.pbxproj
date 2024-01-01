@@ -19,6 +19,7 @@
 		8E45776D2B415CD300CD8251 /* Half.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E45776C2B415CD300CD8251 /* Half.swift */; };
 		8E45776F2B427AC800CD8251 /* Elevator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E45776E2B427AC800CD8251 /* Elevator.swift */; };
 		8E4577712B42814900CD8251 /* Diff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577702B42814900CD8251 /* Diff.swift */; };
+		8E4577752B429FA900CD8251 /* Choice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577742B429FA900CD8251 /* Choice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		8E45776C2B415CD300CD8251 /* Half.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Half.swift; sourceTree = "<group>"; };
 		8E45776E2B427AC800CD8251 /* Elevator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Elevator.swift; sourceTree = "<group>"; };
 		8E4577702B42814900CD8251 /* Diff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diff.swift; sourceTree = "<group>"; };
+		8E4577742B429FA900CD8251 /* Choice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Choice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				8E45776C2B415CD300CD8251 /* Half.swift */,
 				8E45776E2B427AC800CD8251 /* Elevator.swift */,
 				8E4577702B42814900CD8251 /* Diff.swift */,
+				8E4577742B429FA900CD8251 /* Choice.swift */,
 			);
 			path = FastSwiftBasic;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			files = (
 				8E45776D2B415CD300CD8251 /* Half.swift in Sources */,
 				8E4577632B41325100CD8251 /* VariableType.swift in Sources */,
+				8E4577752B429FA900CD8251 /* Choice.swift in Sources */,
 				8E4577572B412F4200CD8251 /* ContentView.swift in Sources */,
 				8E4577552B412F4200CD8251 /* FastSwiftBasicApp.swift in Sources */,
 				8E45776B2B4156C600CD8251 /* function.swift in Sources */,
