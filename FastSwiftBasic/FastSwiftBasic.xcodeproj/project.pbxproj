@@ -27,6 +27,7 @@
 		8E45777F2B43D65B00CD8251 /* Exception.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E45777E2B43D65B00CD8251 /* Exception.swift */; };
 		8E4577812B43DCCD00CD8251 /* MyCar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577802B43DCCD00CD8251 /* MyCar.swift */; };
 		8E4577832B43ECD800CD8251 /* Generic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577822B43ECD800CD8251 /* Generic.swift */; };
+		8E4577872B43F27900CD8251 /* Exapp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577862B43F27900CD8251 /* Exapp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,7 @@
 		8E45777E2B43D65B00CD8251 /* Exception.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exception.swift; sourceTree = "<group>"; };
 		8E4577802B43DCCD00CD8251 /* MyCar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCar.swift; sourceTree = "<group>"; };
 		8E4577822B43ECD800CD8251 /* Generic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Generic.swift; sourceTree = "<group>"; };
+		8E4577862B43F27900CD8251 /* Exapp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exapp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				8E45777E2B43D65B00CD8251 /* Exception.swift */,
 				8E4577802B43DCCD00CD8251 /* MyCar.swift */,
 				8E4577822B43ECD800CD8251 /* Generic.swift */,
+				8E4577862B43F27900CD8251 /* Exapp.swift */,
 			);
 			path = FastSwiftBasic;
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 				8E4577572B412F4200CD8251 /* ContentView.swift in Sources */,
 				8E4577552B412F4200CD8251 /* FastSwiftBasicApp.swift in Sources */,
 				8E45776B2B4156C600CD8251 /* function.swift in Sources */,
+				8E4577872B43F27900CD8251 /* Exapp.swift in Sources */,
 				8E45777F2B43D65B00CD8251 /* Exception.swift in Sources */,
 				8E4577812B43DCCD00CD8251 /* MyCar.swift in Sources */,
 				8E4577832B43ECD800CD8251 /* Generic.swift in Sources */,
