@@ -23,6 +23,7 @@
 		8E4577772B42A2FD00CD8251 /* Selection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577762B42A2FD00CD8251 /* Selection.swift */; };
 		8E4577792B42ABB200CD8251 /* Nil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577782B42ABB200CD8251 /* Nil.swift */; };
 		8E45777B2B42D98600CD8251 /* Option.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E45777A2B42D98600CD8251 /* Option.swift */; };
+		8E45777D2B43CF2100CD8251 /* Sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E45777C2B43CF2100CD8251 /* Sample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		8E4577762B42A2FD00CD8251 /* Selection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Selection.swift; sourceTree = "<group>"; };
 		8E4577782B42ABB200CD8251 /* Nil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nil.swift; sourceTree = "<group>"; };
 		8E45777A2B42D98600CD8251 /* Option.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Option.swift; sourceTree = "<group>"; };
+		8E45777C2B43CF2100CD8251 /* Sample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				8E4577762B42A2FD00CD8251 /* Selection.swift */,
 				8E4577782B42ABB200CD8251 /* Nil.swift */,
 				8E45777A2B42D98600CD8251 /* Option.swift */,
+				8E45777C2B43CF2100CD8251 /* Sample.swift */,
 			);
 			path = FastSwiftBasic;
 			sourceTree = "<group>";
@@ -183,6 +186,7 @@
 				8E4577552B412F4200CD8251 /* FastSwiftBasicApp.swift in Sources */,
 				8E45776B2B4156C600CD8251 /* function.swift in Sources */,
 				8E4577692B41507B00CD8251 /* Loop.swift in Sources */,
+				8E45777D2B43CF2100CD8251 /* Sample.swift in Sources */,
 				8E4577712B42814900CD8251 /* Diff.swift in Sources */,
 				8E4577652B41401E00CD8251 /* MyCollection.swift in Sources */,
 				8E4577672B41471D00CD8251 /* Condition.swift in Sources */,
