@@ -30,6 +30,7 @@
 		8E4577872B43F27900CD8251 /* Exapp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577862B43F27900CD8251 /* Exapp.swift */; };
 		8E4577892B43FFC800CD8251 /* Layout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577882B43FFC800CD8251 /* Layout.swift */; };
 		8E45778B2B4420A100CD8251 /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E45778A2B4420A100CD8251 /* Onboarding.swift */; };
+		8E45778D2B44240E00CD8251 /* ListLoop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E45778C2B44240E00CD8251 /* ListLoop.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +58,7 @@
 		8E4577862B43F27900CD8251 /* Exapp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exapp.swift; sourceTree = "<group>"; };
 		8E4577882B43FFC800CD8251 /* Layout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Layout.swift; sourceTree = "<group>"; };
 		8E45778A2B4420A100CD8251 /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
+		8E45778C2B44240E00CD8251 /* ListLoop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListLoop.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				8E4577862B43F27900CD8251 /* Exapp.swift */,
 				8E4577882B43FFC800CD8251 /* Layout.swift */,
 				8E45778A2B4420A100CD8251 /* Onboarding.swift */,
+				8E45778C2B44240E00CD8251 /* ListLoop.swift */,
 			);
 			path = FastSwiftBasic;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 				8E4577812B43DCCD00CD8251 /* MyCar.swift in Sources */,
 				8E4577832B43ECD800CD8251 /* Generic.swift in Sources */,
 				8E4577692B41507B00CD8251 /* Loop.swift in Sources */,
+				8E45778D2B44240E00CD8251 /* ListLoop.swift in Sources */,
 				8E45777D2B43CF2100CD8251 /* Sample.swift in Sources */,
 				8E4577712B42814900CD8251 /* Diff.swift in Sources */,
 				8E4577652B41401E00CD8251 /* MyCollection.swift in Sources */,
