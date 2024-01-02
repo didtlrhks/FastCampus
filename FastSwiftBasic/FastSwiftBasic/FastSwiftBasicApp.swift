@@ -11,7 +11,7 @@ import SwiftUI
 struct FastSwiftBasicApp: App {
     var body: some Scene {
         WindowGroup {
-            Exception()
+            Generic()
         }
     }
 }
