@@ -24,6 +24,7 @@
 		8E4577792B42ABB200CD8251 /* Nil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577782B42ABB200CD8251 /* Nil.swift */; };
 		8E45777B2B42D98600CD8251 /* Option.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E45777A2B42D98600CD8251 /* Option.swift */; };
 		8E45777D2B43CF2100CD8251 /* Sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E45777C2B43CF2100CD8251 /* Sample.swift */; };
+		8E45777F2B43D65B00CD8251 /* Exception.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E45777E2B43D65B00CD8251 /* Exception.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		8E4577782B42ABB200CD8251 /* Nil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nil.swift; sourceTree = "<group>"; };
 		8E45777A2B42D98600CD8251 /* Option.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Option.swift; sourceTree = "<group>"; };
 		8E45777C2B43CF2100CD8251 /* Sample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample.swift; sourceTree = "<group>"; };
+		8E45777E2B43D65B00CD8251 /* Exception.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exception.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				8E4577782B42ABB200CD8251 /* Nil.swift */,
 				8E45777A2B42D98600CD8251 /* Option.swift */,
 				8E45777C2B43CF2100CD8251 /* Sample.swift */,
+				8E45777E2B43D65B00CD8251 /* Exception.swift */,
 			);
 			path = FastSwiftBasic;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				8E4577572B412F4200CD8251 /* ContentView.swift in Sources */,
 				8E4577552B412F4200CD8251 /* FastSwiftBasicApp.swift in Sources */,
 				8E45776B2B4156C600CD8251 /* function.swift in Sources */,
+				8E45777F2B43D65B00CD8251 /* Exception.swift in Sources */,
 				8E4577692B41507B00CD8251 /* Loop.swift in Sources */,
 				8E45777D2B43CF2100CD8251 /* Sample.swift in Sources */,
 				8E4577712B42814900CD8251 /* Diff.swift in Sources */,
