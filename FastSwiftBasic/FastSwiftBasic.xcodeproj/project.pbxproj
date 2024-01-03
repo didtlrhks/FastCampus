@@ -31,6 +31,7 @@
 		8E4577892B43FFC800CD8251 /* Layout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577882B43FFC800CD8251 /* Layout.swift */; };
 		8E45778B2B4420A100CD8251 /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E45778A2B4420A100CD8251 /* Onboarding.swift */; };
 		8E45778D2B44240E00CD8251 /* ListLoop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E45778C2B44240E00CD8251 /* ListLoop.swift */; };
+		8E4577912B45985900CD8251 /* Setting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577902B45985900CD8251 /* Setting.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,7 @@
 		8E4577882B43FFC800CD8251 /* Layout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Layout.swift; sourceTree = "<group>"; };
 		8E45778A2B4420A100CD8251 /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
 		8E45778C2B44240E00CD8251 /* ListLoop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListLoop.swift; sourceTree = "<group>"; };
+		8E4577902B45985900CD8251 /* Setting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Setting.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				8E4577882B43FFC800CD8251 /* Layout.swift */,
 				8E45778A2B4420A100CD8251 /* Onboarding.swift */,
 				8E45778C2B44240E00CD8251 /* ListLoop.swift */,
+				8E4577902B45985900CD8251 /* Setting.swift */,
 			);
 			path = FastSwiftBasic;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				8E4577632B41325100CD8251 /* VariableType.swift in Sources */,
 				8E4577752B429FA900CD8251 /* Choice.swift in Sources */,
 				8E4577792B42ABB200CD8251 /* Nil.swift in Sources */,
+				8E4577912B45985900CD8251 /* Setting.swift in Sources */,
 				8E4577572B412F4200CD8251 /* ContentView.swift in Sources */,
 				8E4577552B412F4200CD8251 /* FastSwiftBasicApp.swift in Sources */,
 				8E45778B2B4420A100CD8251 /* Onboarding.swift in Sources */,
