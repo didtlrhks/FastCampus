@@ -32,6 +32,8 @@
 		8E45778B2B4420A100CD8251 /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E45778A2B4420A100CD8251 /* Onboarding.swift */; };
 		8E45778D2B44240E00CD8251 /* ListLoop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E45778C2B44240E00CD8251 /* ListLoop.swift */; };
 		8E4577912B45985900CD8251 /* Setting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577902B45985900CD8251 /* Setting.swift */; };
+		8E4577942B45A23500CD8251 /* Modal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577932B45A23500CD8251 /* Modal.swift */; };
+		8E4577962B45A3D400CD8251 /* Detail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577952B45A3D400CD8251 /* Detail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +63,8 @@
 		8E45778A2B4420A100CD8251 /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
 		8E45778C2B44240E00CD8251 /* ListLoop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListLoop.swift; sourceTree = "<group>"; };
 		8E4577902B45985900CD8251 /* Setting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Setting.swift; sourceTree = "<group>"; };
+		8E4577932B45A23500CD8251 /* Modal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modal.swift; sourceTree = "<group>"; };
+		8E4577952B45A3D400CD8251 /* Detail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Detail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +97,7 @@
 		8E4577532B412F4200CD8251 /* FastSwiftBasic */ = {
 			isa = PBXGroup;
 			children = (
+				8E4577922B45A22A00CD8251 /* Modal */,
 				8E4577542B412F4200CD8251 /* FastSwiftBasicApp.swift */,
 				8E4577562B412F4200CD8251 /* ContentView.swift */,
 				8E4577582B412F4500CD8251 /* Assets.xcassets */,
@@ -128,6 +133,15 @@
 				8E45775B2B412F4500CD8251 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8E4577922B45A22A00CD8251 /* Modal */ = {
+			isa = PBXGroup;
+			children = (
+				8E4577932B45A23500CD8251 /* Modal.swift */,
+				8E4577952B45A3D400CD8251 /* Detail.swift */,
+			);
+			path = Modal;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -216,9 +230,11 @@
 				8E4577812B43DCCD00CD8251 /* MyCar.swift in Sources */,
 				8E4577832B43ECD800CD8251 /* Generic.swift in Sources */,
 				8E4577692B41507B00CD8251 /* Loop.swift in Sources */,
+				8E4577962B45A3D400CD8251 /* Detail.swift in Sources */,
 				8E45778D2B44240E00CD8251 /* ListLoop.swift in Sources */,
 				8E45777D2B43CF2100CD8251 /* Sample.swift in Sources */,
 				8E4577712B42814900CD8251 /* Diff.swift in Sources */,
+				8E4577942B45A23500CD8251 /* Modal.swift in Sources */,
 				8E4577652B41401E00CD8251 /* MyCollection.swift in Sources */,
 				8E4577892B43FFC800CD8251 /* Layout.swift in Sources */,
 				8E4577672B41471D00CD8251 /* Condition.swift in Sources */,
