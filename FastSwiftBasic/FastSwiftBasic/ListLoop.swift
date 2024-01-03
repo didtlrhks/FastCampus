@@ -7,22 +7,42 @@
 
 import SwiftUI
 
+
+struct Fruit : Hashable {
+    let name : String
+    let favorite : String
+    let price : Int
+}
+
 struct ListLoop: View {
+    var favoriteFruits = [
     
-    var fruits : [String] = ["Apple","Banana","Cherry","DoubleKiwi","Elder berry"]
+        Fruit(name:"apple",favorite:"Banana",price:1000),
+        Fruit(name: "Banana", favorite: "Banana", price: 2000),
+        Fruit(name:"apple",favorite:"kiwi",price:3000),
+        Fruit(name:"Double Kiwi",favorite:"berry",price:4000),
+        Fruit(name:"apple",favorite:"cherry",price:7000),
+        Fruit(name:"Apple",favorite:"Banana",price:1000)
     
-    var price : [String] = ["1000","3000","4000","5000","6000"]
+    ]
     
+  
     var count = 0
     
     
     var body: some View {
         NavigationStack{
             List {
-                ForEach(fruits, id : \.self){
+                ForEach(favoriteFruits, id : \.self){
                     fruit in
-                    HStack{
-                        Text(fruit)
+                    VStack(alignment: .leading)
+                    {
+                        Text("name : \(fruit.name)")
+                        Text("name : \(fruit.favorite)")
+                        Text("name : \(fruit.price)")
+                        Text("name : \(fruit.name)")
+                        Text("name : \(fruit.name)")
+                        Text("name : \(fruit.name)")
                         
                      
                     }
