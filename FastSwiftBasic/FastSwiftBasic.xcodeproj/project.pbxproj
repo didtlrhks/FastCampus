@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8E34132F2B4684CD00DF394D /* Navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E34132E2B4684CD00DF394D /* Navigation.swift */; };
 		8E4577552B412F4200CD8251 /* FastSwiftBasicApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577542B412F4200CD8251 /* FastSwiftBasicApp.swift */; };
 		8E4577572B412F4200CD8251 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4577562B412F4200CD8251 /* ContentView.swift */; };
 		8E4577592B412F4500CD8251 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E4577582B412F4500CD8251 /* Assets.xcassets */; };
@@ -37,6 +38,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8E34132E2B4684CD00DF394D /* Navigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigation.swift; sourceTree = "<group>"; };
 		8E4577512B412F4200CD8251 /* FastSwiftBasic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FastSwiftBasic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E4577542B412F4200CD8251 /* FastSwiftBasicApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FastSwiftBasicApp.swift; sourceTree = "<group>"; };
 		8E4577562B412F4200CD8251 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 				8E45778A2B4420A100CD8251 /* Onboarding.swift */,
 				8E45778C2B44240E00CD8251 /* ListLoop.swift */,
 				8E4577902B45985900CD8251 /* Setting.swift */,
+				8E34132E2B4684CD00DF394D /* Navigation.swift */,
 			);
 			path = FastSwiftBasic;
 			sourceTree = "<group>";
@@ -223,6 +226,7 @@
 				8E4577912B45985900CD8251 /* Setting.swift in Sources */,
 				8E4577572B412F4200CD8251 /* ContentView.swift in Sources */,
 				8E4577552B412F4200CD8251 /* FastSwiftBasicApp.swift in Sources */,
+				8E34132F2B4684CD00DF394D /* Navigation.swift in Sources */,
 				8E45778B2B4420A100CD8251 /* Onboarding.swift in Sources */,
 				8E45776B2B4156C600CD8251 /* function.swift in Sources */,
 				8E4577872B43F27900CD8251 /* Exapp.swift in Sources */,
